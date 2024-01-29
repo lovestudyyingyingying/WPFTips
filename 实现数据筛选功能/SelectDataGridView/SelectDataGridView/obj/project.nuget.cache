@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "yVBNUirObYKqtL52lmM8Irxu8i61u2meDTdo0mZRIOMnJE/O2cswuyqHqNvNOUGh7AkNOmiRj4wmq7BJgadO1w==",
+  "success": true,
+  "projectFilePath": "E:\\其余项目\\WPF技巧合集\\DataGridView相关\\实现数据筛选功能\\SelectDataGridView\\SelectDataGridView\\SelectDataGridView.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\linyu\\.nuget\\packages\\bogus\\35.4.0\\bogus.35.4.0.nupkg.sha512",
+    "C:\\Users\\linyu\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.2\\communitytoolkit.mvvm.8.2.2.nupkg.sha512",
+    "C:\\Users\\linyu\\.nuget\\packages\\handycontrol\\3.4.0\\handycontrol.3.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

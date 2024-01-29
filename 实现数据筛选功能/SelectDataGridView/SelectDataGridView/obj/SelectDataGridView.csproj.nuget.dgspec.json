@@ -1,0 +1,84 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\其余项目\\WPF技巧合集\\DataGridView相关\\实现数据筛选功能\\SelectDataGridView\\SelectDataGridView\\SelectDataGridView.csproj": {}
+  },
+  "projects": {
+    "E:\\其余项目\\WPF技巧合集\\DataGridView相关\\实现数据筛选功能\\SelectDataGridView\\SelectDataGridView\\SelectDataGridView.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\其余项目\\WPF技巧合集\\DataGridView相关\\实现数据筛选功能\\SelectDataGridView\\SelectDataGridView\\SelectDataGridView.csproj",
+        "projectName": "SelectDataGridView",
+        "projectPath": "E:\\其余项目\\WPF技巧合集\\DataGridView相关\\实现数据筛选功能\\SelectDataGridView\\SelectDataGridView\\SelectDataGridView.csproj",
+        "packagesPath": "C:\\Users\\linyu\\.nuget\\packages\\",
+        "outputPath": "E:\\其余项目\\WPF技巧合集\\DataGridView相关\\实现数据筛选功能\\SelectDataGridView\\SelectDataGridView\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\linyu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "Bogus": {
+              "target": "Package",
+              "version": "[35.4.0, )"
+            },
+            "CommunityToolkit.Mvvm": {
+              "target": "Package",
+              "version": "[8.2.2, )"
+            },
+            "HandyControl": {
+              "target": "Package",
+              "version": "[3.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
